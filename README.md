@@ -146,23 +146,6 @@ O arquivo `results.csv` contém os resultados das provas olímpicas de atletismo
 
 ---
 
-## 🤝 Contribuindo
-
-Contribuições são bem-vindas! Sinta-se à vontade para abrir uma *issue* ou enviar um *pull request*.
-
-1. Faça um fork do projeto
-2. Crie uma branch para sua feature (`git checkout -b feature/nova-analise`)
-3. Commit suas mudanças (`git commit -m 'Add: nova análise por continente'`)
-4. Push para a branch (`git push origin feature/nova-analise`)
-5. Abra um Pull Request
-
----
-
-## 📄 Licença
-
-Este projeto está sob a licença **MIT**. Consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
-
----
 
 <div align="center">
   <sub>Desenvolvido com 🐍 Python + 📊 Plotly · Dados: Olimpíadas 1896–2016</sub>
